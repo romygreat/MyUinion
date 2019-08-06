@@ -1,0 +1,1 @@
+include ':vibarate', ':contacttools', ':spiderflow', ':lcd', ':uiautomation', ':commonui'

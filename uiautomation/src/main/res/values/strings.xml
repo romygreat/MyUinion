@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">uiautomation</string>
+    <string name="textContent">
+        新华社北京5月31日电（记者申铖）记者31日从国务院关税税则委员会办公室了解到，对美加征关税商品排除申报系统已于5月31日开通，在华企业及行业协（商）会可通过财政部关税政策研究中心网站注册、登录并填写排除申请，系统将于6月3日按原定计划开始接受第一批商品排除申请。
+
+　　据介绍，此次可申报的第一批商品包括《国务院关税税则委员会关于对原产于美国500亿美元进口商品加征关税的公告》（税委会公告〔2018〕5号）所附《对美加征关税商品清单一》商品，以及《国务院关税税则委员会关于对原产于美国约160亿美元进口商品加征关税的公告》（税委会公告〔2018〕7号）所附《对美加征关税商品清单二》商品。
+
+　　根据国务院关税税则委员会此前发布公告，可申请排除商品范围为我国已公布实施且未停止或未暂停加征关税的两轮对美反制措施商品。申请主体为申请排除商品的利益相关方，包括从事相关商品进口、生产或使用的在华企业或其行业协（商）会。
+
+　　国务院关税税则委员会表示，对排除清单内商品，自排除清单实施之日起一年内，不再加征我为反制美301措施所加征的关税；具备退还税款条件的，对已加征的关税税款予以退还，相关进口企业应自排除清单公布之日起6个月内按规定向海关申请办理。对排除清单公布前已经停止或已暂停加征关税的商品，已加征关税不予退还。
+    根据办法，申请商品排除的主体，应当说明三方面的申请理由：寻找商品替代来源面临的困难；加征关税对申请主体造成严重经济损害；加征关税对相关产业造成重大负面结构性影响或带来严重社会后果。
+
+　　记者了解到，为便于申请主体规范填报排除申请，国务院关税税则委员会办公室还在财政部关税政策研究中心网站发布了《对美加征关税商品排除申请填报说明》。国务院关税税则委员会将对有效申请逐一进行审核，开展调查研究，听取相关专家、协会、部门的意见，并按程序制定、公布排除清单
+    </string>
+    <string-array name="hello">
+        <item>hello</item>
+        <item>你好</item>
+        <item>讲究</item>
+        <item>帅</item>
+        <item>文明中国</item>
+        <item>爱护为</item>
+        <item>china</item>
+        <item>american</item>
+        <item>mosico</item>
+        <item>autralia</item>
+        <item>spain</item>
+        <item>查看</item>
+        <item>和你在意</item>
+        <item>one</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>chenggong</item>
+        <item>hello1</item>
+    </string-array>
+</resources>
